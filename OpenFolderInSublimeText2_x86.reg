@@ -12,4 +12,4 @@ Windows Registry Editor Version 5.00
 "Icon"="\"C:\\Program Files (x86)\\Sublime Text 2\\sublime_text.exe\""
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Open Folder in Sublime Text 2\command]
-@="\"C:\\Program Files (x86)\\Sublime Text 2\\sublime_text.exe\" \"%1\""
+@="\"C:\\Program Files (x86)\\Sublime Text 2\\sublime_text.exe\" \"%V\""

@@ -13,3 +13,10 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Open Folder in Sublime Text 2\command]
 @="\"C:\\Program Files\\Sublime Text 2\\sublime_text.exe\" \"%V\""
+
+[HKEY_CLASSES_ROOT\LibraryFolder\Background\shell\Open Folder in Sublime Text 2]
+@="Open Folder in Sublime Text 2"
+"Icon"="\"C:\\Program Files\\Sublime Text 2\\sublime_text.exe\""
+
+[HKEY_CLASSES_ROOT\LibraryFolder\Background\shell\Open Folder in Sublime Text 2\command]
+@="\"C:\\Program Files\\Sublime Text 2\\sublime_text.exe\" \"%V\""

@@ -4,6 +4,13 @@ Add these to your `./Pacakages/User/` folder.
 
 * **NodeJS:** `node $file`
 
+# Commands
+
+* `Git: Open Exclude File`  
+  Opens `.git/info/exclude` which is the local "`.gitingore`" file that doesn't get shared.
+* `Git: Checkout Pull Request`  
+  Prompts for the PR ID and then performs `git fetch origin pull/[ID]/head:origin-pr[ID]` then `git checkout origin-pr[ID]`.
+
 # Tools
 
 ## Open Folder In Sublime Text (Windows)

@@ -1,0 +1,8 @@
+[
+    {   "caption": "Git: Open Exclude File",
+        "command": "git_open_exclude_file"
+    },
+    {   "caption": "Git: Checkout Pull Request",
+        "command": "git_checkout_pull_request"
+    }
+] 
